@@ -1,5 +1,4 @@
 # User View
-# User View
 
 in order to run this app on the root folder please run: 
 
