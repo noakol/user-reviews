@@ -1,0 +1,20 @@
+[
+    {
+        "id": "001",
+        "username": "John Doe",
+        "text": "This app rockes",
+        "avatar": ""
+    },
+    {
+        "id": "002",
+        "username": "Mad Max",
+        "text": "cool app",
+        "avatar": ""
+    },
+    {
+        "id": "003",
+        "username": "John Doe",
+        "text": "long long long long long long long long long long long long long long long long long long long long long review",
+        "avatar": ""
+    }
+]
